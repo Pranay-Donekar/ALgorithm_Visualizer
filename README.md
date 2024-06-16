@@ -1,1 +1,1 @@
-# ALgorithm_Visualizer
+#algorithm-visualizer
